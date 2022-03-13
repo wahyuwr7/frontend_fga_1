@@ -38,6 +38,11 @@ a {
     color: #6B705C;
 }
 
+.active {
+    background-color: #fff;
+    color: #6B705C;
+}
+
 .container {
     width: 80%;
     margin: 0 auto;
